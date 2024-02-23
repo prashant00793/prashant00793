@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently working as Salesforce Automation Quality Engineer<br>Open to Learn new tools and technologies<br>Skilled in Java, Selenium, Rest Assured<br>Like to contribute and share my knowledge<br><br>
+-I'm Currently working as Salesforce Automation Quality Engineer<br> -Open to Learn new tools and technologies<br>- Skilled in Java, Selenium, Rest Assured<br>-Like to contribute and share my knowledge<br><br>
 
 
 ## 🌐 Socials:
